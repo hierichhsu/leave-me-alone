@@ -1,0 +1,11 @@
+{
+  "name": "leave-me-alone",
+  "version": "1.0.0",
+  "description": "Anti-troll and zero-liability guard for vibe coding. Blocks code that invites CIPA wiretapping suits, ADA accessibility claims, font/image copyright trolls, FTC subscription penalties, and EU AI Act Art. 50 violations.",
+  "author": {
+    "name": "EricHsu",
+    "url": "https://github.com/EricHsu"
+  },
+  "license": "MIT",
+  "keywords": ["compliance", "cipa", "ada", "wcag", "clickwrap", "ftc", "eu-ai-act", "font-license", "consent"]
+}
